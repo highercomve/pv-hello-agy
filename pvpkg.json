@@ -1,0 +1,7 @@
+{
+  "name": "pv-hello-agy",
+  "package_url": "https://github.com/highercomve/pv-hello-agy",
+  "arch": ["arm64v8"],
+  "dockerfile": "Dockerfile",
+  "src_extra": { "args": { "PV_GROUP": "app" } }
+}
